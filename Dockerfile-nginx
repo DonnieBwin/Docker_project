@@ -1,0 +1,26 @@
+FROM ubuntu
+MAINTAINER cenze <272666745@qq.com>
+
+RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+ADD conf/sources.list /etc/apt/
+RUN apt-get update 
+&& apt-get install -y gcc make vim libpcre3-dev zlib1g-dev libssl-dev 
+&& ln -s /usr/lib/x86_64-linux-gnu/libssl.so  /usr/lib/
+
+ENV PKGS="/usr/local/pkgs"
+ADD packages/nginx-1.10.2.tar.gz $PKGS/
+
+# install nginx
+WORKDIR $PKGS/nginx-1.10.2
+ENV PREFIX_NGINX="/usr/local/nginx"
+RUN mkdir $PREFIX_NGINX 
+&& ./configure --prefix="$PREFIX_NGINX" --with-http_ssl_module 
+&& make 
+&& make install
+ADD conf/nginx.conf $PREFIX_NGINX/conf/
+ 
+#WORKDIR $PREFIX_NGINX/html
+ENV PATH $PREFIX_NGINX/sbin:$PATH
+
+EXPOSE 80 443
+CMD ["nginx", "-g", "daemon off;"]
