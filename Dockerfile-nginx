@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER cenze <272666745@qq.com>
+MAINTAINER DonnieBwin "bwd2016@outlook.com"
 
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 ADD conf/sources.list /etc/apt/
