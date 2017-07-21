@@ -1,0 +1,101 @@
+#消息配置文件
+message:
+ templates:
+# rwTemplate:
+   - id: net_dev_rwsh_001
+     title: 开发经理审核延迟通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_002
+     title: 开发大区经理审核通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_003
+     title: 内部评审会审核通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_004
+     title: 内部评审会审批通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_005
+     title: 内部评审会领克总经理审批通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_006
+     title: 陈述会结果审核通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_007
+     title: 评委会签通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_008
+     title: 入网结果审核通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_009
+     title: 副总裁审批通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_010
+     title: 发布确认通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - title: 经销商入网审核发布通知提醒
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_011
+     title: 入网确认通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_012
+     title: 入网申请驳回通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_rwsh_013
+     title: 入网申请终止通知
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+# qdzbTemplate:
+   - id: net_dev_qdzb_001
+     title: 启动准备-勘测内容提交
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_qdzb_002
+     title: 启动准备-勘测内容确认
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+# sjcgshTemplate:
+   - id: net_dev_sjcgsh_001
+     title: 提交初稿
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_sjcgsh_002
+     title: 初稿审核-初稿提交
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_sjcgsh_003
+     title: 初稿审核-经销商确认
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_sjcgsh_004
+     title: 初稿审核-建店环节
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_sjcgsh_005
+     title: 初稿审核-分管副总确认
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+# sgshTemplate:
+   - id: net_dev_sgsh_001
+     title: 施工管理-施工定制
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_sgsh_002
+     title: 施工管理-施工阶段审核
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+# wgjcTemplate:
+   - id: net_dev_wgjc_001
+     title: 完工检查-经销商提交完工检查申请
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_wgjc_002
+     title: 完工检查-三方设计管理公司确认
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_wgjc_003
+     title: 完工检查-网发项目经理审核
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+# ysshTemplate:
+   - id: net_dev_yssh_001
+     title: 验收审批-提交验收报告
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_yssh_002
+     title: 验收审批-验收阶段
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_yssh_003
+     title: 验收审批-总监审核
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_yssh_004
+     title: 验收审批-分管副总
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。
+   - id: net_dev_yssh_005
+     title: 验收审批-领克总经理
+     context: ${province_city_county}“${company_name}”公司，已填写公司基本信息，提交入网申请至网络发展部，目前等待您审核时间已超过2天，请尽快审核。

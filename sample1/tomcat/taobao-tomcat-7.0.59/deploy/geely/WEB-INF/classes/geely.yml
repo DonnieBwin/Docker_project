@@ -1,0 +1,120 @@
+#本地上传文件地址
+file:
+  upload:
+    path: C:/file
+
+#rpc:
+#  default:
+#    group: DEFAULT
+##    group: CMAIT-UAT
+##    group: DEFAULT
+
+#mysql数据库配置
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://${global.dnd.db.ip}:${global.dnd.db.port}/${global.dnd.db.dbname}?useUnicode=true&characterEncoding=utf8
+    username: ${global.dnd.db.username}
+    password: ${global.dnd.db.password}
+#    driverClassName: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://cyx20cyx20.mysql.rds.aliyuncs.com:3306/geely_netdev?useUnicode=true&characterEncoding=utf8
+#    username: cyx20cyx20
+#    password: 19851125Abc
+  jpa:
+    database: MYSQL
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  data:
+    jpa:
+      repositories:
+        enabled: true
+  http:
+    multipart:
+      max-file-size: 50Mb
+      max-request-size: 1000Mb
+  redis:
+    host: ${global.redis.ip}
+#    ip: ${global.redis.ip}
+    port: ${global.redis.port}
+    pool:
+      max-active: 20
+      max-idle: 8
+      min-idle: 0
+    timeout: 0
+
+flowable:
+  datasource:
+#    driverClassName: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://${global.flow.db.ip}:${global.flow.db.port}/${global.flow.db.dbname}?useUnicode=true&characterEncoding=utf8
+#    username: ${global.flow.db.username}
+#    password: ${global.flow.db.password}
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://cyx20cyx20.mysql.rds.aliyuncs.com:3306/dt_flow?useUnicode=true&characterEncoding=utf8
+    username: cyx20cyx20
+    password: 19851125Abc
+#  deploymentResources: classpath*:processes/*.bpmn20.xml
+#  deploymentMode: default
+  checkProcessDefinitions: false
+
+auth:
+  switch: true
+
+##CI环境OSS访问配置信息
+oss:
+  endpoint: ${oss.endpoint}
+  accessKeyId: ${oss.app.key}
+  accessKeySecret: ${oss.app.secret}
+  bucketName: ${oss.bucket.name}
+
+#用户中心的访问信息
+oauthAccess:
+  clientId: wangfa
+  clientSecret: YTVkYWRlMWI1YWNiMzA0ZA==
+
+#邮件是否开启的开关标识
+email:
+  switchBol: false
+
+#是否开启自动处理以及相关信息，每个任务特有考虑在流程xml里面配置
+schedule:
+  switchBol: true
+  scheduleRule: "0 0/1 * * * ?"
+  insideDelayTime: 60000
+#  externalDelayTime: 172800000
+  externalDelayTime: 60000
+  dealProcesses:
+    - processKey: rwFlow
+      insideDealInfo:
+        isNotify: true
+      externalDealInfo:
+        isNotify: false
+        autoDealType: pass
+        dealRoles:
+          - develop.wf.sales.chief
+          - develop.wf.customer.chief
+    - processKey: jdFlow
+      insideDealInfo:
+        isNotify: true
+      externalDealInfo:
+        isNotify: false
+        autoDealType: pass
+        dealRoles:
+          - develop.wf.sales.chief
+          - develop.wf.customer.chief
+  notifyTypes:
+    - ms
+#    - ml
+#    - sms
+  externalRoles:
+    - develop.wf.sales.chief
+    - develop.wf.customer.chief
+
+
+#定时器时间
+#timer:
+#  timeSet: 0 0/15 * * * ?
+#  timerBol: false

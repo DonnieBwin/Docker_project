@@ -1,0 +1,5 @@
+#角色编码是否指定用户的关系
+handleRoleInfo:
+  - develop.wf.dealer.temporary:JXS
+  - develop.wf.developmentManager.developProjectPrincipal:JSXMFZR
+  - develop.wf.designer.formal:SFSJGLGS

@@ -1,0 +1,137 @@
+01 2017-07-20 05:40:17.852 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find eagleeye-core CommandProvider : com.taobao.eagleeye.PandoraCommondProvider
+01 2017-07-20 05:40:17.861 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find notify-tr-client CommandProvider : com.taobao.eagleeye.PandoraCommondProvider
+01 2017-07-20 05:40:17.864 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find hsf CommandProvider : com.taobao.hsf.info.pandora.HSFCommandProvider
+01 2017-07-20 05:40:17.889 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find pandora-qos-service CommandProvider : com.taobao.pandora.qos.command.ContainerCommandProviderImpl
+01 2017-07-20 05:40:17.889 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find pandora-framework CommandProvider : com.taobao.pandora.framework.plugin.PandoraFrameworkCommandProvider
+01 2017-07-20 05:40:19.392 INFO [localhost-startStop-1:pandora.qos] [] [] [] [Pandora-QOS] QOS Server started-port: 12201
+
+
+	****************************************************************************************
+	**                                                                                    **
+	**	                      Pandora Container                                       **
+	**                                                                                    **
+	**	Pandora Host:     10.1.19.13                                                  **
+	**	Pandora Version:  2.0.5.5.9                                                   **
+	**	SAR Version:      2_5_151013                                                  **
+	**	Package Time:     2015-10-13 14:24:54                                         **
+	**                                                                                    **
+	**	Plug-in Modules: 16                                                           **
+	**                                                                                    **
+	**	   spas-sdk-client .................................. 1.1.5                   **
+	**	   eagleeye-core .................................... 1.4.4                   **
+	**	   diamond-client ................................... 3.7.1.6                 **
+	**	   spas-sdk-service ................................. 1.2.0                   **
+	**	   config-client .................................... 1.6.6.5                 **
+	**	   unitrouter ....................................... 1.0.14-SNAPSHOT         **
+	**	   notify-tr-client ................................. 1.8.19.26               **
+	**	   monitor .......................................... 1.0.4                   **
+	**	   hsf-notify-client ................................ 1.8.19.9                **
+	**	   hsf .............................................. 2.1.1.3                 **
+	**	   filesync-client .................................. 1.0.3                   **
+	**	   tair-plugin ...................................... 1.0.4                   **
+	**	   pandora-qos-service .............................. 2.0.9                   **
+	**	   pandora-framework ................................ 2.0.7                   **
+	**	   alimonitor-jmonitor .............................. 1.1.2                   **
+	**	   tddl-client ...................................... 5.1.21-3                **
+	**                                                                                    **
+	**	[WARNING] All these plug-in modules will override maven pom.xml dependencies. **
+	**	          See More: http://t.cn/RhtjBZp                                       **
+	**                                                                                    **
+	****************************************************************************************
+
+
+
+01 2017-07-20 05:40:19.393 INFO [localhost-startStop-1:pandora.qos] [] [] [] QOS Service Started!
+01 2017-07-20 05:40:19.393 INFO [localhost-startStop-1:pandora.qos] [] [] [] init report version job threadpool.
+01 2017-07-20 05:48:07.513 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find eagleeye-core CommandProvider : com.taobao.eagleeye.PandoraCommondProvider
+01 2017-07-20 05:48:07.518 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find notify-tr-client CommandProvider : com.taobao.eagleeye.PandoraCommondProvider
+01 2017-07-20 05:48:07.519 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find hsf CommandProvider : com.taobao.hsf.info.pandora.HSFCommandProvider
+01 2017-07-20 05:48:07.525 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find pandora-qos-service CommandProvider : com.taobao.pandora.qos.command.ContainerCommandProviderImpl
+01 2017-07-20 05:48:07.525 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find pandora-framework CommandProvider : com.taobao.pandora.framework.plugin.PandoraFrameworkCommandProvider
+01 2017-07-20 05:48:08.847 INFO [localhost-startStop-1:pandora.qos] [] [] [] [Pandora-QOS] QOS Server started-port: 12201
+
+
+	****************************************************************************************
+	**                                                                                    **
+	**	                      Pandora Container                                       **
+	**                                                                                    **
+	**	Pandora Host:     10.1.19.13                                                  **
+	**	Pandora Version:  2.0.5.5.9                                                   **
+	**	SAR Version:      2_5_151013                                                  **
+	**	Package Time:     2015-10-13 14:24:54                                         **
+	**                                                                                    **
+	**	Plug-in Modules: 16                                                           **
+	**                                                                                    **
+	**	   spas-sdk-client .................................. 1.1.5                   **
+	**	   eagleeye-core .................................... 1.4.4                   **
+	**	   diamond-client ................................... 3.7.1.6                 **
+	**	   spas-sdk-service ................................. 1.2.0                   **
+	**	   config-client .................................... 1.6.6.5                 **
+	**	   unitrouter ....................................... 1.0.14-SNAPSHOT         **
+	**	   notify-tr-client ................................. 1.8.19.26               **
+	**	   monitor .......................................... 1.0.4                   **
+	**	   hsf-notify-client ................................ 1.8.19.9                **
+	**	   hsf .............................................. 2.1.1.3                 **
+	**	   filesync-client .................................. 1.0.3                   **
+	**	   tair-plugin ...................................... 1.0.4                   **
+	**	   pandora-qos-service .............................. 2.0.9                   **
+	**	   pandora-framework ................................ 2.0.7                   **
+	**	   alimonitor-jmonitor .............................. 1.1.2                   **
+	**	   tddl-client ...................................... 5.1.21-3                **
+	**                                                                                    **
+	**	[WARNING] All these plug-in modules will override maven pom.xml dependencies. **
+	**	          See More: http://t.cn/RhtjBZp                                       **
+	**                                                                                    **
+	****************************************************************************************
+
+
+
+01 2017-07-20 05:48:08.847 INFO [localhost-startStop-1:pandora.qos] [] [] [] QOS Service Started!
+01 2017-07-20 05:48:08.848 INFO [localhost-startStop-1:pandora.qos] [] [] [] init report version job threadpool.
+01 2017-07-20 05:49:46.393 INFO [localhost-startStop-2:pandora.qos] [] [] [] stop report version job threadpool.
+01 2017-07-20 05:49:46.393 INFO [localhost-startStop-2:pandora.qos] [] [] [] QOS Service Stopped!
+01 2017-07-20 05:51:29.449 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find eagleeye-core CommandProvider : com.taobao.eagleeye.PandoraCommondProvider
+01 2017-07-20 05:51:29.453 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find notify-tr-client CommandProvider : com.taobao.eagleeye.PandoraCommondProvider
+01 2017-07-20 05:51:29.455 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find hsf CommandProvider : com.taobao.hsf.info.pandora.HSFCommandProvider
+01 2017-07-20 05:51:29.460 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find pandora-qos-service CommandProvider : com.taobao.pandora.qos.command.ContainerCommandProviderImpl
+01 2017-07-20 05:51:29.461 INFO [localhost-startStop-1:pandora.qos] [] [] [] Find pandora-framework CommandProvider : com.taobao.pandora.framework.plugin.PandoraFrameworkCommandProvider
+01 2017-07-20 05:51:30.746 INFO [localhost-startStop-1:pandora.qos] [] [] [] [Pandora-QOS] QOS Server started-port: 12201
+
+
+	****************************************************************************************
+	**                                                                                    **
+	**	                      Pandora Container                                       **
+	**                                                                                    **
+	**	Pandora Host:     10.1.19.13                                                  **
+	**	Pandora Version:  2.0.5.5.9                                                   **
+	**	SAR Version:      2_5_151013                                                  **
+	**	Package Time:     2015-10-13 14:24:54                                         **
+	**                                                                                    **
+	**	Plug-in Modules: 16                                                           **
+	**                                                                                    **
+	**	   spas-sdk-client .................................. 1.1.5                   **
+	**	   eagleeye-core .................................... 1.4.4                   **
+	**	   diamond-client ................................... 3.7.1.6                 **
+	**	   spas-sdk-service ................................. 1.2.0                   **
+	**	   config-client .................................... 1.6.6.5                 **
+	**	   unitrouter ....................................... 1.0.14-SNAPSHOT         **
+	**	   notify-tr-client ................................. 1.8.19.26               **
+	**	   monitor .......................................... 1.0.4                   **
+	**	   hsf-notify-client ................................ 1.8.19.9                **
+	**	   hsf .............................................. 2.1.1.3                 **
+	**	   filesync-client .................................. 1.0.3                   **
+	**	   tair-plugin ...................................... 1.0.4                   **
+	**	   pandora-qos-service .............................. 2.0.9                   **
+	**	   pandora-framework ................................ 2.0.7                   **
+	**	   alimonitor-jmonitor .............................. 1.1.2                   **
+	**	   tddl-client ...................................... 5.1.21-3                **
+	**                                                                                    **
+	**	[WARNING] All these plug-in modules will override maven pom.xml dependencies. **
+	**	          See More: http://t.cn/RhtjBZp                                       **
+	**                                                                                    **
+	****************************************************************************************
+
+
+
+01 2017-07-20 05:51:30.746 INFO [localhost-startStop-1:pandora.qos] [] [] [] QOS Service Started!
+01 2017-07-20 05:51:30.746 INFO [localhost-startStop-1:pandora.qos] [] [] [] init report version job threadpool.

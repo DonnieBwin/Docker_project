@@ -1,0 +1,36 @@
+rpc:
+  consumers:
+    - type: com.dtdream.epsilon.mc.service.MailService
+    - type: com.dtdream.epsilon.mc.service.SmsService
+    - type: com.dtdream.epsilon.mc.service.TemplateService
+    - type: com.dtdream.epsilon.mc.service.DeliverService
+    - type: com.dtdream.gamma.organization.service.EmployeeWriteService
+    - type: com.dtdream.gamma.organization.service.EmployeeReadService
+    - type: com.dtdream.gamma.uaa.service.OauthAccessTokenWriteService
+    - type: com.dtdream.gamma.uaa.service.OauthAccessTokenReadService
+    - type: com.dtdream.gamma.account.service.AccountPrivilegeReadService
+    - type: com.dtdream.gamma.account.service.AccountPrivilegeWriteService
+    - type: com.dtdream.gamma.account.service.AccountWriteService
+    - type: com.dtdream.gamma.account.service.AccountReadService
+    - type: com.dtdream.gamma.organization.service.OrganizationReadService
+    - type: com.dtdream.gamma.organization.service.OrganizationWriteService
+    - type: com.dtdream.gamma.organization.service.PositionReadService
+    - type: com.dtdream.gamma.organization.service.PositionWriteService
+    - type: com.dtdream.gamma.organization.service.OrgTemplateReadService
+    - type: com.dtdream.gamma.organization.service.OrgTemplateWriteService
+    - type: com.dtdream.gamma.organization.geely.GeelyOrgWriteService
+#    - type: com.dtdream.dop.tdc.service.BacklogAssortedService
+#    - type: com.dtdream.dop.tdc.service.BacklogBasicService
+#    - type: com.dtdream.dop.tdc.service.MessageCenterAssortedService
+    - type: com.dtdream.dop.tdc.service.BacklogAssortedService
+    - type: com.dtdream.dop.tdc.service.MessageCenterAssortedService
+    - type: com.dtdream.gamma.organization.service.OrgDistrictReadService
+    - type: com.dtdream.gamma.organization.service.EmployeePrivilegeReadService
+    - type: com.dtdream.dop.workbench.dashboard.service.SystemWidgetReadService
+    - type: com.dtdream.gamma.privilege.service.RoleReadService
+    - type: com.dtdream.gamma.organization.service.OrgDistrictReadService
+    - type: com.dtdream.gamma.address.service.AddressReadService
+    - type: com.dtdream.gamma.address.service.BusinessRegionReadService
+  providers:
+#    - type: com.dtdream.dop.dealer.geely.service.users.IUserService
+    - type: com.dtdream.dop.dealer.geely.service.users.DealerService

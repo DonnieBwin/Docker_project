@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 20 10:35:28 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015d-5dd9-9c6c-000010f3ec98 
+on database directory /root/bwd_test/Docker_project/sample1/edas-config-center/config-center-db with class loader org.springframework.boot.loader.LaunchedURLClassLoader@30f39991 
+Loaded from jar:file:/root/bwd_test/Docker_project/sample1/edas-config-center/edas-config-center.jar!/lib/derby-10.12.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/root/bwd_test/Docker_project/sample1/edas-config-center
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-327.el7.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

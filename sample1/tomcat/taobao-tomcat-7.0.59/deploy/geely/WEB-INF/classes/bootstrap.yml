@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: geely
+  config:
+    location: classpath:/geely.yml,classpath:/auth.yml,classpath:/message.yml,classpath:/role_user.yml
+
+  profiles:
+    active: ${dop.deploy.env:dev}
+  cloud:
+    config:
+      uri: http://config.tesir.top
+      label: master
+      enabled: true

@@ -1,0 +1,76 @@
+01 2017-07-20 05:40:17.779 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ClassLoaderMonitor registered
+01 2017-07-20 05:40:17.780 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ConnectorMonitor registered
+01 2017-07-20 05:40:17.780 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] MemoryMonitor registered
+01 2017-07-20 05:40:17.780 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ThreadMonitor registered
+01 2017-07-20 05:40:17.780 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager added
+01 2017-07-20 05:40:17.783 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager added
+01 2017-07-20 05:40:17.802 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ConnectorGlobalStatsRollLogScheduleJob failed to add
+01 2017-07-20 05:40:17.802 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ConnectorGlobalStatsScheduleJob added
+01 2017-07-20 05:40:17.803 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] SlowConnectionRollLogScheduleJob failed to add
+01 2017-07-20 05:40:17.804 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] SlowConnectionScheduleJob added
+01 2017-07-20 05:40:17.805 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ClassLoadingInfoScheduleJob added
+01 2017-07-20 05:40:17.805 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] FailedRequestInfoScheduleJob added
+01 2017-07-20 05:40:17.806 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] GCInfoScheduleJob added
+01 2017-07-20 05:40:17.806 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] MemoryInfoScheduleJob added
+01 2017-07-20 05:40:17.807 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] OSInfoScheduleJob added
+01 2017-07-20 05:40:17.807 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadInfoScheduleJob added
+01 2017-07-20 05:40:17.808 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadCpuTimeRollLogScheduleJob failed to add
+01 2017-07-20 05:40:17.808 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadCpuTimeScheduleJob added
+01 2017-07-20 05:40:17.809 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager added
+01 2017-07-20 05:40:18.076 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager started
+01 2017-07-20 05:40:19.352 INFO [localhost-startStop-1:Tomcat-Monitor] [RestfulResourceManager] [] [] RestfulResource service started.
+01 2017-07-20 05:40:19.352 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager started
+01 2017-07-20 05:40:19.353 DEBUG [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] will schedule job after 35 seconds
+01 2017-07-20 05:40:19.354 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager started
+01 2017-07-20 05:48:07.439 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ClassLoaderMonitor registered
+01 2017-07-20 05:48:07.447 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ConnectorMonitor registered
+01 2017-07-20 05:48:07.447 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] MemoryMonitor registered
+01 2017-07-20 05:48:07.447 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ThreadMonitor registered
+01 2017-07-20 05:48:07.447 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager added
+01 2017-07-20 05:48:07.450 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager added
+01 2017-07-20 05:48:07.468 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ConnectorGlobalStatsRollLogScheduleJob failed to add
+01 2017-07-20 05:48:07.469 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ConnectorGlobalStatsScheduleJob added
+01 2017-07-20 05:48:07.470 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] SlowConnectionRollLogScheduleJob failed to add
+01 2017-07-20 05:48:07.471 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] SlowConnectionScheduleJob added
+01 2017-07-20 05:48:07.472 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ClassLoadingInfoScheduleJob added
+01 2017-07-20 05:48:07.472 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] FailedRequestInfoScheduleJob added
+01 2017-07-20 05:48:07.473 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] GCInfoScheduleJob added
+01 2017-07-20 05:48:07.474 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] MemoryInfoScheduleJob added
+01 2017-07-20 05:48:07.475 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] OSInfoScheduleJob added
+01 2017-07-20 05:48:07.475 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadInfoScheduleJob added
+01 2017-07-20 05:48:07.476 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadCpuTimeRollLogScheduleJob failed to add
+01 2017-07-20 05:48:07.477 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadCpuTimeScheduleJob added
+01 2017-07-20 05:48:07.477 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager added
+01 2017-07-20 05:48:07.648 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager started
+01 2017-07-20 05:48:08.807 INFO [localhost-startStop-1:Tomcat-Monitor] [RestfulResourceManager] [] [] RestfulResource service started.
+01 2017-07-20 05:48:08.808 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager started
+01 2017-07-20 05:48:08.809 DEBUG [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] will schedule job after 46 seconds
+01 2017-07-20 05:48:08.809 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager started
+01 2017-07-20 05:49:46.394 INFO [localhost-startStop-2:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager stopped
+01 2017-07-20 05:49:46.396 INFO [localhost-startStop-2:Tomcat-Monitor] [RestfulResourceManager] [] [] RestfulResource service stopped.
+01 2017-07-20 05:49:46.396 INFO [localhost-startStop-2:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager stopped
+01 2017-07-20 05:49:46.396 INFO [localhost-startStop-2:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager stopped
+01 2017-07-20 05:51:29.380 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ClassLoaderMonitor registered
+01 2017-07-20 05:51:29.381 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ConnectorMonitor registered
+01 2017-07-20 05:51:29.381 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] MemoryMonitor registered
+01 2017-07-20 05:51:29.381 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorModuleManager] [] [] ThreadMonitor registered
+01 2017-07-20 05:51:29.382 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager added
+01 2017-07-20 05:51:29.385 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager added
+01 2017-07-20 05:51:29.405 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ConnectorGlobalStatsRollLogScheduleJob failed to add
+01 2017-07-20 05:51:29.406 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ConnectorGlobalStatsScheduleJob added
+01 2017-07-20 05:51:29.407 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] SlowConnectionRollLogScheduleJob failed to add
+01 2017-07-20 05:51:29.408 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] SlowConnectionScheduleJob added
+01 2017-07-20 05:51:29.409 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ClassLoadingInfoScheduleJob added
+01 2017-07-20 05:51:29.409 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] FailedRequestInfoScheduleJob added
+01 2017-07-20 05:51:29.410 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] GCInfoScheduleJob added
+01 2017-07-20 05:51:29.410 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] MemoryInfoScheduleJob added
+01 2017-07-20 05:51:29.411 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] OSInfoScheduleJob added
+01 2017-07-20 05:51:29.412 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadInfoScheduleJob added
+01 2017-07-20 05:51:29.412 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadCpuTimeRollLogScheduleJob failed to add
+01 2017-07-20 05:51:29.413 INFO [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] ThreadCpuTimeScheduleJob added
+01 2017-07-20 05:51:29.413 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager added
+01 2017-07-20 05:51:29.582 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] MonitorModuleManager started
+01 2017-07-20 05:51:30.649 INFO [localhost-startStop-1:Tomcat-Monitor] [RestfulResourceManager] [] [] RestfulResource service started.
+01 2017-07-20 05:51:30.649 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] RestfulResourceManager started
+01 2017-07-20 05:51:30.650 DEBUG [localhost-startStop-1:Tomcat-Monitor] [ScheduleJobManager] [] [] will schedule job after 24 seconds
+01 2017-07-20 05:51:30.651 INFO [localhost-startStop-1:Tomcat-Monitor] [MonitorService] [] [] ScheduleJobManager started

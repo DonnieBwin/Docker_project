@@ -1,0 +1,9 @@
+01 2017-07-20 05:40:18.391 INFO [localhost-startStop-1:server.ApplicationHandler] Initiating Jersey application, version Jersey: 2.6 2014-02-18 21:52:53...
+01 2017-07-20 05:40:19.290 WARN [localhost-startStop-1:internal.Errors] The following warnings have been detected: WARNING: The (sub)resource method listModules in com.taobao.tomcat.monitor.rest.pandolet.PandoletResource contains empty path annotation.
+
+01 2017-07-20 05:48:07.979 INFO [localhost-startStop-1:server.ApplicationHandler] Initiating Jersey application, version Jersey: 2.6 2014-02-18 21:52:53...
+01 2017-07-20 05:48:08.789 WARN [localhost-startStop-1:internal.Errors] The following warnings have been detected: WARNING: The (sub)resource method listModules in com.taobao.tomcat.monitor.rest.pandolet.PandoletResource contains empty path annotation.
+
+01 2017-07-20 05:51:29.896 INFO [localhost-startStop-1:server.ApplicationHandler] Initiating Jersey application, version Jersey: 2.6 2014-02-18 21:52:53...
+01 2017-07-20 05:51:30.630 WARN [localhost-startStop-1:internal.Errors] The following warnings have been detected: WARNING: The (sub)resource method listModules in com.taobao.tomcat.monitor.rest.pandolet.PandoletResource contains empty path annotation.
+

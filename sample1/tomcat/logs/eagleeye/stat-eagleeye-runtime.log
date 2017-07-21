@@ -1,0 +1,168 @@
+2017-07-20 13:40:00|6|19,system,awt.toolkit|sun.awt.X11.XToolkit
+2017-07-20 13:40:00|6|19,system,java.naming.factory.url.pkgs|org.apache.naming
+2017-07-20 13:40:00|6|19,system,sun.java.command|org.apache.catalina.startup.Bootstrap start
+2017-07-20 13:40:00|6|19,system,sun.boot.class.path|/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes
+2017-07-20 13:40:00|6|19,system,sun.font.fontmanager|sun.awt.X11FontManager
+2017-07-20 13:40:00|6|19,system,druid.stat.mergeSql|true
+2017-07-20 13:40:00|6|19,system,sun.java.launcher|SUN_STANDARD
+2017-07-20 13:40:00|6|19,system,java.util.logging.config.file|/root/taobao-tomcat-7.0.59/conf/logging.properties
+2017-07-20 13:40:00|6|19,system,catalina.logs|/root/taobao-tomcat-7.0.59/logs
+2017-07-20 13:40:00|6|19,system,java.vm.specification.version|1.7
+2017-07-20 13:40:00|6|19,system,org.apache.tomcat.util.http.ServerCookie.ALLOW_EQUALS_IN_VALUE|true
+2017-07-20 13:40:00|6|19,system,java.endorsed.dirs|/root/taobao-tomcat-7.0.59/endorsed
+2017-07-20 13:40:00|6|19,system,line.separator|
+
+2017-07-20 13:40:00|6|19,system,user.dir|/root/taobao-tomcat-7.0.59
+2017-07-20 13:40:00|6|19,system,file.encoding|UTF-8
+2017-07-20 13:40:00|6|19,system,log4j.defaultInitOverride|true
+2017-07-20 13:40:00|6|19,runtime,inputArguments|-Djava.util.logging.config.file=/root/taobao-tomcat-7.0.59/conf/logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Dcatalina.vendor=alibaba -Djava.security.egd=file:/dev/./urandom -Dlog4j.defaultInitOverride=true -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_EQUALS_IN_VALUE=true -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true -Djava.endorsed.dirs=/root/taobao-tomcat-7.0.59/endorsed -Dcatalina.logs=/root/taobao-tomcat-7.0.59/logs -Dcatalina.base=/root/taobao-tomcat-7.0.59 -Dcatalina.home=/root/taobao-tomcat-7.0.59 -Djava.io.tmpdir=/root/taobao-tomcat-7.0.59/temp
+2017-07-20 13:40:00|6|19,system,java.util.logging.manager|org.apache.juli.ClassLoaderLogManager
+2017-07-20 13:40:00|6|19,system,sun.cpu.endian|little
+2017-07-20 13:40:00|6|19,system,java.version|1.7.0_101
+2017-07-20 13:40:00|6|19,system,com.taobao.tomcat.version|7.0.59.346
+2017-07-20 13:40:00|6|19,system,package.access|sun.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.resources.,org.apache.tomcat.
+2017-07-20 13:40:00|6|19,system,server.loader|
+2017-07-20 13:40:00|6|19,system,java.vm.specification.vendor|Oracle Corporation
+2017-07-20 13:40:00|6|19,system,pandora_path|/root/taobao-tomcat-7.0.59/deploy/taobao-hsf.sar
+2017-07-20 13:40:00|6|19,system,shared.loader|
+2017-07-20 13:40:00|6|19,system,catalina.base|/root/taobao-tomcat-7.0.59
+2017-07-20 13:40:00|6|19,system,tomcat.util.buf.StringCache.byte.enabled|true
+2017-07-20 13:40:00|6|19,system,java.awt.printerjob|sun.print.PSPrinterJob
+2017-07-20 13:40:00|6|19,system,file.separator|/
+2017-07-20 13:40:00|6|19,system,java.security.egd|file:/dev/./urandom
+2017-07-20 13:40:00|6|19,system,java.class.version|51.0
+2017-07-20 13:40:00|6|19,system,sun.os.patch.level|unknown
+2017-07-20 13:40:00|6|19,system,jmx.tabular.data.hash.map|false
+2017-07-20 13:40:00|6|19,system,catalina.vendor|alibaba
+2017-07-20 13:40:00|6|19,system,java.vendor|Oracle Corporation
+2017-07-20 13:40:00|6|19,system,org.apache.catalina.startup.ContextConfig.jarsToSkip|
+2017-07-20 13:40:00|6|19,system,java.runtime.name|OpenJDK Runtime Environment
+2017-07-20 13:40:00|6|19,runtime,name|19@1d0cf46fa7d2
+2017-07-20 13:40:00|6|19,system,user.language|en
+2017-07-20 13:40:00|6|19,system,java.specification.version|1.7
+2017-07-20 13:40:00|6|19,system,catalina.useNaming|true
+2017-07-20 13:40:00|6|19,system,sun.cpu.isalist|
+2017-07-20 13:40:00|6|19,system,common.loader|${catalina.base}/lib,${catalina.base}/lib/*.jar,${catalina.home}/lib,${catalina.home}/lib/*.jar
+2017-07-20 13:40:00|6|19,system,java.vendor.url.bug|http://bugreport.sun.com/bugreport/
+2017-07-20 13:40:00|6|19,system,com.taobao.tomcat.info|Apache Tomcat/7.0.59.346
+2017-07-20 13:40:00|6|19,system,os.version|3.10.0-327.el7.x86_64
+2017-07-20 13:40:00|6|19,system,java.ext.dirs|/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+2017-07-20 13:40:00|6|19,system,java.runtime.version|1.7.0_101-b00
+2017-07-20 13:40:00|6|19,system,catalina.home|/root/taobao-tomcat-7.0.59
+2017-07-20 13:40:00|6|19,system,java.vm.info|mixed mode
+2017-07-20 13:40:00|6|19,system,user.home|/root
+2017-07-20 13:40:00|6|19,system,org.apache.catalina.startup.TldConfig.jarsToSkip|tomcat7-websocket.jar
+2017-07-20 13:40:00|6|19,system,java.class.path|/root/taobao-tomcat-7.0.59/bin/bootstrap.jar:/root/taobao-tomcat-7.0.59/bin/tomcat-juli.jar
+2017-07-20 13:40:00|6|19,system,sun.boot.library.path|/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64
+2017-07-20 13:40:00|6|19,system,java.library.path|/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+2017-07-20 13:40:00|6|19,system,sun.arch.data.model|64
+2017-07-20 13:40:00|6|19,system,druid.useGloalDataSourceStat|true
+2017-07-20 13:40:00|6|19,system,sun.management.compiler|HotSpot 64-Bit Tiered Compilers
+2017-07-20 13:40:00|6|19,system,package.definition|sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.,org.apache.tomcat.
+2017-07-20 13:40:00|6|19,system,sun.io.unicode.encoding|UnicodeLittle
+2017-07-20 13:40:00|6|19,system,org.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0|true
+2017-07-20 13:40:00|6|19,system,java.vm.name|OpenJDK 64-Bit Server VM
+2017-07-20 13:40:00|6|19,system,file.encoding.pkg|sun.io
+2017-07-20 13:40:00|6|19,system,java.naming.factory.initial|org.apache.naming.java.javaURLContextFactory
+2017-07-20 13:40:00|6|19,system,sun.jnu.encoding|UTF-8
+2017-07-20 13:40:00|6|19,system,tomcat.util.scan.DefaultJarScanner.jarsToSkip|bootstrap.jar,commons-daemon.jar,tomcat-juli.jar,annotations-api.jar,el-api.jar,jsp-api.jar,servlet-api.jar,websocket-api.jar,catalina.jar,catalina-ant.jar,catalina-ha.jar,catalina-tribes.jar,jasper.jar,jasper-el.jar,ecj-*.jar,tomcat-api.jar,tomcat-util.jar,tomcat-coyote.jar,tomcat-dbcp.jar,tomcat-jni.jar,tomcat-spdy.jar,tomcat-i18n-en.jar,tomcat-i18n-es.jar,tomcat-i18n-fr.jar,tomcat-i18n-ja.jar,tomcat-juli-adapters.jar,catalina-jmx-remote.jar,catalina-ws.jar,tomcat-jdbc.jar,tools.jar,commons-beanutils*.jar,commons-codec*.jar,commons-collections*.jar,commons-dbcp*.jar,commons-digester*.jar,commons-fileupload*.jar,commons-httpclient*.jar,commons-io*.jar,commons-lang*.jar,commons-logging*.jar,commons-math*.jar,commons-pool*.jar,jstl.jar,geronimo-spec-jaxrpc*.jar,wsdl4j*.jar,ant.jar,ant-junit*.jar,aspectj*.jar,jmx.jar,h2*.jar,hibernate*.jar,httpclient*.jar,jmx-tools.jar,jta*.jar,log4j.jar,log4j-1*.jar,mail*.jar,slf4j*.jar,xercesImpl.jar,xmlParserAPIs.jar,xml-apis.jar,junit.jar,junit-*.jar,hamcrest*.jar,org.hamcrest*.jar,ant-launcher.jar,cobertura-*.jar,asm-*.jar,dom4j-*.jar,icu4j-*.jar,jaxen-*.jar,jdom-*.jar,jetty-*.jar,oro-*.jar,servlet-api-*.jar,tagsoup-*.jar,xmlParserAPIs-*.jar,xom-*.jar
+2017-07-20 13:40:00|6|19,system,os.arch|amd64
+2017-07-20 13:40:00|6|19,system,java.vm.specification.name|Java Virtual Machine Specification
+2017-07-20 13:40:00|6|19,system,path.separator|:
+2017-07-20 13:40:00|6|19,system,java.io.tmpdir|/root/taobao-tomcat-7.0.59/temp
+2017-07-20 13:40:00|6|19,system,druid.filters|stat
+2017-07-20 13:40:00|6|19,system,java.vm.vendor|Oracle Corporation
+2017-07-20 13:40:00|6|19,runtime,startTime|1500529207084
+2017-07-20 13:40:00|6|19,system,user.name|root
+2017-07-20 13:40:00|6|19,system,java.vendor.url|http://java.oracle.com/
+2017-07-20 13:40:00|6|19,system,java.specification.vendor|Oracle Corporation
+2017-07-20 13:40:00|6|19,system,user.timezone|Etc/UTC
+2017-07-20 13:40:00|6|19,system,java.home|/usr/lib/jvm/java-7-openjdk-amd64/jre
+2017-07-20 13:40:00|6|19,system,java.vm.version|24.95-b01
+2017-07-20 13:40:00|6|19,system,java.awt.graphicsenv|sun.awt.X11GraphicsEnvironment
+2017-07-20 13:40:00|6|19,system,java.specification.name|Java Platform API Specification
+2017-07-20 13:40:00|6|19,system,os.name|Linux
+2017-07-20 13:48:00|6|15,system,catalina.base|/root/taobao-tomcat-7.0.59
+2017-07-20 13:48:00|6|15,system,java.class.path|/root/taobao-tomcat-7.0.59/bin/bootstrap.jar:/root/taobao-tomcat-7.0.59/bin/tomcat-juli.jar
+2017-07-20 13:48:00|6|15,system,java.runtime.version|1.7.0_101-b00
+2017-07-20 13:48:00|6|15,system,org.apache.tomcat.util.http.ServerCookie.ALLOW_EQUALS_IN_VALUE|true
+2017-07-20 13:48:00|6|15,system,java.class.version|51.0
+2017-07-20 13:48:00|6|15,system,java.vendor.url|http://java.oracle.com/
+2017-07-20 13:48:00|6|15,system,user.home|/root
+2017-07-20 13:48:00|6|15,runtime,startTime|1500529679526
+2017-07-20 13:48:00|6|15,system,java.specification.version|1.7
+2017-07-20 13:48:00|6|15,system,common.loader|${catalina.base}/lib,${catalina.base}/lib/*.jar,${catalina.home}/lib,${catalina.home}/lib/*.jar
+2017-07-20 13:48:00|6|15,system,java.awt.graphicsenv|sun.awt.X11GraphicsEnvironment
+2017-07-20 13:48:00|6|15,system,java.io.tmpdir|/root/taobao-tomcat-7.0.59/temp
+2017-07-20 13:48:00|6|15,system,java.naming.factory.url.pkgs|org.apache.naming
+2017-07-20 13:48:00|6|15,system,druid.useGloalDataSourceStat|true
+2017-07-20 13:48:00|6|15,system,user.language|en
+2017-07-20 13:48:00|6|15,system,druid.filters|stat
+2017-07-20 13:48:00|6|15,system,java.security.egd|file:/dev/./urandom
+2017-07-20 13:48:00|6|15,system,file.encoding.pkg|sun.io
+2017-07-20 13:48:00|6|15,system,sun.java.command|org.apache.catalina.startup.Bootstrap start
+2017-07-20 13:48:00|6|15,system,catalina.home|/root/taobao-tomcat-7.0.59
+2017-07-20 13:48:00|6|15,system,tomcat.util.scan.DefaultJarScanner.jarsToSkip|bootstrap.jar,commons-daemon.jar,tomcat-juli.jar,annotations-api.jar,el-api.jar,jsp-api.jar,servlet-api.jar,websocket-api.jar,catalina.jar,catalina-ant.jar,catalina-ha.jar,catalina-tribes.jar,jasper.jar,jasper-el.jar,ecj-*.jar,tomcat-api.jar,tomcat-util.jar,tomcat-coyote.jar,tomcat-dbcp.jar,tomcat-jni.jar,tomcat-spdy.jar,tomcat-i18n-en.jar,tomcat-i18n-es.jar,tomcat-i18n-fr.jar,tomcat-i18n-ja.jar,tomcat-juli-adapters.jar,catalina-jmx-remote.jar,catalina-ws.jar,tomcat-jdbc.jar,tools.jar,commons-beanutils*.jar,commons-codec*.jar,commons-collections*.jar,commons-dbcp*.jar,commons-digester*.jar,commons-fileupload*.jar,commons-httpclient*.jar,commons-io*.jar,commons-lang*.jar,commons-logging*.jar,commons-math*.jar,commons-pool*.jar,jstl.jar,geronimo-spec-jaxrpc*.jar,wsdl4j*.jar,ant.jar,ant-junit*.jar,aspectj*.jar,jmx.jar,h2*.jar,hibernate*.jar,httpclient*.jar,jmx-tools.jar,jta*.jar,log4j.jar,log4j-1*.jar,mail*.jar,slf4j*.jar,xercesImpl.jar,xmlParserAPIs.jar,xml-apis.jar,junit.jar,junit-*.jar,hamcrest*.jar,org.hamcrest*.jar,ant-launcher.jar,cobertura-*.jar,asm-*.jar,dom4j-*.jar,icu4j-*.jar,jaxen-*.jar,jdom-*.jar,jetty-*.jar,oro-*.jar,servlet-api-*.jar,tagsoup-*.jar,xmlParserAPIs-*.jar,xom-*.jar
+2017-07-20 13:48:00|6|15,system,jmx.tabular.data.hash.map|false
+2017-07-20 13:48:00|6|15,system,java.vm.name|OpenJDK 64-Bit Server VM
+2017-07-20 13:48:00|6|15,system,org.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0|true
+2017-07-20 13:48:00|6|15,system,java.ext.dirs|/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+2017-07-20 13:48:00|6|15,runtime,inputArguments|-Djava.util.logging.config.file=/root/taobao-tomcat-7.0.59/conf/logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Dcatalina.vendor=alibaba -Djava.security.egd=file:/dev/./urandom -Dlog4j.defaultInitOverride=true -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_EQUALS_IN_VALUE=true -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true -Djava.endorsed.dirs=/root/taobao-tomcat-7.0.59/endorsed -Dcatalina.logs=/root/taobao-tomcat-7.0.59/logs -Dcatalina.base=/root/taobao-tomcat-7.0.59 -Dcatalina.home=/root/taobao-tomcat-7.0.59 -Djava.io.tmpdir=/root/taobao-tomcat-7.0.59/temp
+2017-07-20 13:48:00|6|15,system,file.encoding|UTF-8
+2017-07-20 13:48:00|6|15,system,org.apache.catalina.startup.TldConfig.jarsToSkip|tomcat7-websocket.jar
+2017-07-20 13:48:00|6|15,system,org.apache.catalina.startup.ContextConfig.jarsToSkip|
+2017-07-20 13:48:00|6|15,system,os.arch|amd64
+2017-07-20 13:48:00|6|15,system,java.vm.info|mixed mode
+2017-07-20 13:48:00|6|15,system,java.specification.vendor|Oracle Corporation
+2017-07-20 13:48:00|6|15,system,path.separator|:
+2017-07-20 13:48:00|6|15,system,java.endorsed.dirs|/root/taobao-tomcat-7.0.59/endorsed
+2017-07-20 13:48:00|6|15,system,sun.java.launcher|SUN_STANDARD
+2017-07-20 13:48:00|6|15,system,java.vm.version|24.95-b01
+2017-07-20 13:48:00|6|15,system,java.awt.printerjob|sun.print.PSPrinterJob
+2017-07-20 13:48:00|6|15,system,sun.font.fontmanager|sun.awt.X11FontManager
+2017-07-20 13:48:00|6|15,system,java.naming.factory.initial|org.apache.naming.java.javaURLContextFactory
+2017-07-20 13:48:00|6|15,system,sun.jnu.encoding|UTF-8
+2017-07-20 13:48:00|6|15,system,sun.boot.class.path|/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes
+2017-07-20 13:48:00|6|15,system,java.util.logging.manager|org.apache.juli.ClassLoaderLogManager
+2017-07-20 13:48:00|6|15,system,java.vendor.url.bug|http://bugreport.sun.com/bugreport/
+2017-07-20 13:48:00|6|15,system,tomcat.util.buf.StringCache.byte.enabled|true
+2017-07-20 13:48:00|6|15,system,line.separator|
+
+2017-07-20 13:48:00|6|15,system,os.name|Linux
+2017-07-20 13:48:00|6|15,system,awt.toolkit|sun.awt.X11.XToolkit
+2017-07-20 13:48:00|6|15,system,package.access|sun.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.resources.,org.apache.tomcat.
+2017-07-20 13:48:00|6|15,system,com.taobao.tomcat.version|7.0.59.346
+2017-07-20 13:48:00|6|15,system,os.version|3.10.0-327.el7.x86_64
+2017-07-20 13:48:00|6|15,system,java.vm.vendor|Oracle Corporation
+2017-07-20 13:48:00|6|15,system,java.home|/usr/lib/jvm/java-7-openjdk-amd64/jre
+2017-07-20 13:48:00|6|15,system,java.vm.specification.name|Java Virtual Machine Specification
+2017-07-20 13:48:00|6|15,system,sun.cpu.endian|little
+2017-07-20 13:48:00|6|15,system,log4j.defaultInitOverride|true
+2017-07-20 13:48:00|6|15,system,com.taobao.tomcat.info|Apache Tomcat/7.0.59.346
+2017-07-20 13:48:00|6|15,system,java.util.logging.config.file|/root/taobao-tomcat-7.0.59/conf/logging.properties
+2017-07-20 13:48:00|6|15,system,server.loader|
+2017-07-20 13:48:00|6|15,system,sun.boot.library.path|/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64
+2017-07-20 13:48:00|6|15,system,java.library.path|/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+2017-07-20 13:48:00|6|15,system,sun.os.patch.level|unknown
+2017-07-20 13:48:00|6|15,system,package.definition|sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.,org.apache.tomcat.
+2017-07-20 13:48:00|6|15,system,sun.arch.data.model|64
+2017-07-20 13:48:00|6|15,system,druid.stat.mergeSql|true
+2017-07-20 13:48:00|6|15,system,catalina.vendor|alibaba
+2017-07-20 13:48:00|6|15,system,user.name|root
+2017-07-20 13:48:00|6|15,system,java.vendor|Oracle Corporation
+2017-07-20 13:48:00|6|15,system,pandora_path|/root/taobao-tomcat-7.0.59/deploy/taobao-hsf.sar
+2017-07-20 13:48:00|6|15,system,java.runtime.name|OpenJDK Runtime Environment
+2017-07-20 13:48:00|6|15,system,sun.cpu.isalist|
+2017-07-20 13:48:00|6|15,runtime,name|15@2d7b8b9838a4
+2017-07-20 13:48:00|6|15,system,user.timezone|Etc/UTC
+2017-07-20 13:48:00|6|15,system,java.vm.specification.vendor|Oracle Corporation
+2017-07-20 13:48:00|6|15,system,java.version|1.7.0_101
+2017-07-20 13:48:00|6|15,system,sun.io.unicode.encoding|UnicodeLittle
+2017-07-20 13:48:00|6|15,system,catalina.logs|/root/taobao-tomcat-7.0.59/logs
+2017-07-20 13:48:00|6|15,system,catalina.useNaming|true
+2017-07-20 13:48:00|6|15,system,shared.loader|
+2017-07-20 13:48:00|6|15,system,user.dir|/root/taobao-tomcat-7.0.59
+2017-07-20 13:48:00|6|15,system,file.separator|/
+2017-07-20 13:48:00|6|15,system,java.vm.specification.version|1.7
+2017-07-20 13:48:00|6|15,system,sun.management.compiler|HotSpot 64-Bit Tiered Compilers
+2017-07-20 13:48:00|6|15,system,java.specification.name|Java Platform API Specification

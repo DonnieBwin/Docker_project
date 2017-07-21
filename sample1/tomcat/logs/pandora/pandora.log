@@ -1,0 +1,375 @@
+01 2017-07-20 05:40:11.416 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process begin.
+01 2017-07-20 05:40:11.417 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [1/12] Log4jDefaultInitOverride
+01 2017-07-20 05:40:11.418 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [2/12] ExtractZipPlugin
+01 2017-07-20 05:40:11.462 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:11.555 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:11.619 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:11.640 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:11.681 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:11.689 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:11.938 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:12.078 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:12.346 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:12.938 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:12.967 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:12.985 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:13.017 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:13.115 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:13.431 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:13.444 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:40:13.444 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [3/12] DeployPluginModule
+01 2017-07-20 05:40:13.463 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module alimonitor-jmonitor
+01 2017-07-20 05:40:13.472 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module config-client
+01 2017-07-20 05:40:13.476 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module diamond-client
+01 2017-07-20 05:40:13.492 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module eagleeye-core
+01 2017-07-20 05:40:13.495 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module filesync-client
+01 2017-07-20 05:40:13.509 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module hsf-notify-client
+01 2017-07-20 05:40:13.512 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module hsf
+01 2017-07-20 05:40:13.514 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module monitor
+01 2017-07-20 05:40:13.517 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module notify-tr-client
+01 2017-07-20 05:40:13.518 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module pandora-framework
+01 2017-07-20 05:40:13.519 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module pandora-qos-service
+01 2017-07-20 05:40:13.521 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module spas-sdk-client
+01 2017-07-20 05:40:13.522 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module spas-sdk-service
+01 2017-07-20 05:40:13.524 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module tair-plugin
+01 2017-07-20 05:40:13.527 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module tddl-client
+01 2017-07-20 05:40:13.528 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module unitrouter
+01 2017-07-20 05:40:13.528 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [4/12] InitializerCheck
+01 2017-07-20 05:40:13.529 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module spas-sdk-client, ignore
+01 2017-07-20 05:40:13.529 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module eagleeye-core, ignore
+01 2017-07-20 05:40:13.529 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module diamond-client, ignore
+01 2017-07-20 05:40:13.529 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module spas-sdk-service, ignore
+01 2017-07-20 05:40:13.530 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module config-client, ignore
+01 2017-07-20 05:40:13.530 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module unitrouter, ignore
+01 2017-07-20 05:40:13.530 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module notify-tr-client, ignore
+01 2017-07-20 05:40:13.533 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module hsf-notify-client, ignore
+01 2017-07-20 05:40:13.533 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module hsf, ignore
+01 2017-07-20 05:40:13.533 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module filesync-client, ignore
+01 2017-07-20 05:40:13.536 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module pandora-qos-service, ignore
+01 2017-07-20 05:40:13.544 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [5/12] ExportClass2Cache
+01 2017-07-20 05:40:14.869 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx2.URIStatValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.870 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatExceptionValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.872 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatFinalValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.873 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.905 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx2.JmonitorWebx2UrlValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.906 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlFinallyValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.907 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.908 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlExceptionValve, but it's optional, ignore.
+01 2017-07-20 05:40:14.942 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.ibatis.SqlMapClientWrapper, but it's optional, ignore.
+01 2017-07-20 05:40:14.944 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.ibatis.SqlMapSessionWrapper, but it's optional, ignore.
+01 2017-07-20 05:40:17.312 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [6/12] RegisterPandoraService
+01 2017-07-20 05:40:17.478 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService inited.
+01 2017-07-20 05:40:17.584 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService inited.
+01 2017-07-20 05:40:17.809 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor inited.
+01 2017-07-20 05:40:17.890 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService inited.
+01 2017-07-20 05:40:17.923 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService inited.
+01 2017-07-20 05:40:18.057 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora inited.
+01 2017-07-20 05:40:18.057 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [7/12] RegisterPluginPandolet
+01 2017-07-20 05:40:18.057 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.TraceLogPandolet for module eagleeye-core
+01 2017-07-20 05:40:18.073 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.EagleEyeControlPandolet for module eagleeye-core
+01 2017-07-20 05:40:18.073 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.StatLogPandolet for module eagleeye-core
+01 2017-07-20 05:40:18.073 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [8/12] RegisterLifecycleListener
+01 2017-07-20 05:40:18.073 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [9/12] ChangeStateDeployed
+01 2017-07-20 05:40:18.073 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [10/12] StartPandoraService
+01 2017-07-20 05:40:18.074 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService started.
+01 2017-07-20 05:40:18.074 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService started.
+01 2017-07-20 05:40:19.354 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor started.
+01 2017-07-20 05:40:19.394 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService started.
+01 2017-07-20 05:40:19.394 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService started.
+01 2017-07-20 05:40:19.468 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora started.
+01 2017-07-20 05:40:19.481 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [11/12] InitPluginPandolet
+01 2017-07-20 05:40:19.495 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] TraceLog inited.
+01 2017-07-20 05:40:19.505 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet TraceLog in module eagleeye-core
+01 2017-07-20 05:40:19.507 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] EagleEyeControl inited.
+01 2017-07-20 05:40:19.507 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet EagleEyeControl in module eagleeye-core
+01 2017-07-20 05:40:19.509 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] StatLog inited.
+01 2017-07-20 05:40:19.509 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet StatLog in module eagleeye-core
+01 2017-07-20 05:40:19.509 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [12/12] DisallowPandoletRegistration
+01 2017-07-20 05:40:19.510 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process end.
+01 2017-07-20 05:48:03.299 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process begin.
+01 2017-07-20 05:48:03.304 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [1/12] Log4jDefaultInitOverride
+01 2017-07-20 05:48:03.304 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [2/12] ExtractZipPlugin
+01 2017-07-20 05:48:03.305 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/alimonitor-jmonitor
+01 2017-07-20 05:48:03.306 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/alimonitor-jmonitor
+01 2017-07-20 05:48:03.306 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.307 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/config-client
+01 2017-07-20 05:48:03.308 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/config-client
+01 2017-07-20 05:48:03.308 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.309 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/diamond-client
+01 2017-07-20 05:48:03.309 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/diamond-client
+01 2017-07-20 05:48:03.309 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.310 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/eagleeye-core
+01 2017-07-20 05:48:03.310 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/eagleeye-core
+01 2017-07-20 05:48:03.310 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.312 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/filesync-client
+01 2017-07-20 05:48:03.313 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/filesync-client
+01 2017-07-20 05:48:03.313 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.313 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf-notify-client
+01 2017-07-20 05:48:03.314 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf-notify-client
+01 2017-07-20 05:48:03.314 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.318 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf
+01 2017-07-20 05:48:03.318 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf
+01 2017-07-20 05:48:03.318 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.320 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/monitor
+01 2017-07-20 05:48:03.321 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/monitor
+01 2017-07-20 05:48:03.321 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.325 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/notify-tr-client
+01 2017-07-20 05:48:03.326 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/notify-tr-client
+01 2017-07-20 05:48:03.326 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.327 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-framework
+01 2017-07-20 05:48:03.327 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-framework
+01 2017-07-20 05:48:03.327 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.328 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-qos-service
+01 2017-07-20 05:48:03.328 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-qos-service
+01 2017-07-20 05:48:03.329 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.329 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-client
+01 2017-07-20 05:48:03.330 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-client
+01 2017-07-20 05:48:03.330 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.331 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-service
+01 2017-07-20 05:48:03.331 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-service
+01 2017-07-20 05:48:03.331 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.333 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tair-plugin
+01 2017-07-20 05:48:03.333 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tair-plugin
+01 2017-07-20 05:48:03.333 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.336 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tddl-client
+01 2017-07-20 05:48:03.336 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tddl-client
+01 2017-07-20 05:48:03.336 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.337 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/unitrouter
+01 2017-07-20 05:48:03.337 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/unitrouter
+01 2017-07-20 05:48:03.337 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:48:03.337 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora
+01 2017-07-20 05:48:03.381 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.450 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.544 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.570 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.620 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.628 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.880 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:03.996 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.239 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.265 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.286 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.310 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.342 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.442 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.750 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.759 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:48:04.759 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [3/12] DeployPluginModule
+01 2017-07-20 05:48:04.764 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module alimonitor-jmonitor
+01 2017-07-20 05:48:04.766 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module config-client
+01 2017-07-20 05:48:04.767 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module diamond-client
+01 2017-07-20 05:48:04.771 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module eagleeye-core
+01 2017-07-20 05:48:04.772 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module filesync-client
+01 2017-07-20 05:48:04.773 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module hsf-notify-client
+01 2017-07-20 05:48:04.776 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module hsf
+01 2017-07-20 05:48:04.778 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module monitor
+01 2017-07-20 05:48:04.781 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module notify-tr-client
+01 2017-07-20 05:48:04.783 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module pandora-framework
+01 2017-07-20 05:48:04.784 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module pandora-qos-service
+01 2017-07-20 05:48:04.786 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module spas-sdk-client
+01 2017-07-20 05:48:04.787 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module spas-sdk-service
+01 2017-07-20 05:48:04.796 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module tair-plugin
+01 2017-07-20 05:48:04.803 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module tddl-client
+01 2017-07-20 05:48:04.804 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module unitrouter
+01 2017-07-20 05:48:04.804 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [4/12] InitializerCheck
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module spas-sdk-client, ignore
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module eagleeye-core, ignore
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module diamond-client, ignore
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module spas-sdk-service, ignore
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module config-client, ignore
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module unitrouter, ignore
+01 2017-07-20 05:48:04.805 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module notify-tr-client, ignore
+01 2017-07-20 05:48:04.815 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module hsf-notify-client, ignore
+01 2017-07-20 05:48:04.815 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module hsf, ignore
+01 2017-07-20 05:48:04.815 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module filesync-client, ignore
+01 2017-07-20 05:48:04.818 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module pandora-qos-service, ignore
+01 2017-07-20 05:48:04.838 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [5/12] ExportClass2Cache
+01 2017-07-20 05:48:06.103 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx2.URIStatValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.105 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatExceptionValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.106 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatFinalValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.108 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.148 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx2.JmonitorWebx2UrlValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.149 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlFinallyValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.150 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.151 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlExceptionValve, but it's optional, ignore.
+01 2017-07-20 05:48:06.163 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.ibatis.SqlMapClientWrapper, but it's optional, ignore.
+01 2017-07-20 05:48:06.165 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.ibatis.SqlMapSessionWrapper, but it's optional, ignore.
+01 2017-07-20 05:48:07.091 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [6/12] RegisterPandoraService
+01 2017-07-20 05:48:07.211 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService inited.
+01 2017-07-20 05:48:07.258 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService inited.
+01 2017-07-20 05:48:07.477 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor inited.
+01 2017-07-20 05:48:07.526 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService inited.
+01 2017-07-20 05:48:07.556 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService inited.
+01 2017-07-20 05:48:07.643 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora inited.
+01 2017-07-20 05:48:07.644 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [7/12] RegisterPluginPandolet
+01 2017-07-20 05:48:07.644 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.TraceLogPandolet for module eagleeye-core
+01 2017-07-20 05:48:07.645 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.EagleEyeControlPandolet for module eagleeye-core
+01 2017-07-20 05:48:07.645 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.StatLogPandolet for module eagleeye-core
+01 2017-07-20 05:48:07.645 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [8/12] RegisterLifecycleListener
+01 2017-07-20 05:48:07.645 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [9/12] ChangeStateDeployed
+01 2017-07-20 05:48:07.645 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [10/12] StartPandoraService
+01 2017-07-20 05:48:07.646 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService started.
+01 2017-07-20 05:48:07.646 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService started.
+01 2017-07-20 05:48:08.810 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor started.
+01 2017-07-20 05:48:08.849 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService started.
+01 2017-07-20 05:48:08.849 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService started.
+01 2017-07-20 05:48:08.910 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora started.
+01 2017-07-20 05:48:08.911 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [11/12] InitPluginPandolet
+01 2017-07-20 05:48:08.921 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] TraceLog inited.
+01 2017-07-20 05:48:08.921 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet TraceLog in module eagleeye-core
+01 2017-07-20 05:48:08.923 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] EagleEyeControl inited.
+01 2017-07-20 05:48:08.923 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet EagleEyeControl in module eagleeye-core
+01 2017-07-20 05:48:08.931 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] StatLog inited.
+01 2017-07-20 05:48:08.931 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet StatLog in module eagleeye-core
+01 2017-07-20 05:48:08.931 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [12/12] DisallowPandoletRegistration
+01 2017-07-20 05:48:08.931 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process end.
+01 2017-07-20 05:49:46.389 INFO [localhost-startStop-2:pandora] [Pandora-Pandolet] [] [] TraceLog destroyed.
+01 2017-07-20 05:49:46.390 INFO [localhost-startStop-2:pandora] [PandoletService] [] [] destroy pandolet TraceLog in module eagleeye-core
+01 2017-07-20 05:49:46.390 INFO [localhost-startStop-2:pandora] [Pandora-Pandolet] [] [] EagleEyeControl destroyed.
+01 2017-07-20 05:49:46.390 INFO [localhost-startStop-2:pandora] [PandoletService] [] [] destroy pandolet EagleEyeControl in module eagleeye-core
+01 2017-07-20 05:49:46.390 INFO [localhost-startStop-2:pandora] [Pandora-Pandolet] [] [] StatLog destroyed.
+01 2017-07-20 05:49:46.390 INFO [localhost-startStop-2:pandora] [PandoletService] [] [] destroy pandolet StatLog in module eagleeye-core
+01 2017-07-20 05:49:46.391 INFO [localhost-startStop-2:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora stopped.
+01 2017-07-20 05:49:46.391 INFO [localhost-startStop-2:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService stopped.
+01 2017-07-20 05:49:46.393 INFO [localhost-startStop-2:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService stopped.
+01 2017-07-20 05:49:46.396 INFO [localhost-startStop-2:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor stopped.
+01 2017-07-20 05:49:52.612 INFO [localhost-startStop-2:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService stopped.
+01 2017-07-20 05:49:52.612 INFO [localhost-startStop-2:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService stopped.
+01 2017-07-20 05:49:52.613 WARN [localhost-startStop-2:pandora] [ClassLoaderHolder] [] [] cleanup classloader for applications: [unknow_project_name]
+01 2017-07-20 05:51:25.403 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process begin.
+01 2017-07-20 05:51:25.405 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [1/12] Log4jDefaultInitOverride
+01 2017-07-20 05:51:25.405 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [2/12] ExtractZipPlugin
+01 2017-07-20 05:51:25.406 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/alimonitor-jmonitor
+01 2017-07-20 05:51:25.406 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/alimonitor-jmonitor
+01 2017-07-20 05:51:25.406 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.408 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/config-client
+01 2017-07-20 05:51:25.409 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/config-client
+01 2017-07-20 05:51:25.409 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.411 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/diamond-client
+01 2017-07-20 05:51:25.411 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/diamond-client
+01 2017-07-20 05:51:25.411 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.412 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/eagleeye-core
+01 2017-07-20 05:51:25.412 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/eagleeye-core
+01 2017-07-20 05:51:25.413 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.415 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/filesync-client
+01 2017-07-20 05:51:25.415 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/filesync-client
+01 2017-07-20 05:51:25.415 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.416 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf-notify-client
+01 2017-07-20 05:51:25.416 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf-notify-client
+01 2017-07-20 05:51:25.416 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.424 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf
+01 2017-07-20 05:51:25.425 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/hsf
+01 2017-07-20 05:51:25.425 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.428 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/monitor
+01 2017-07-20 05:51:25.429 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/monitor
+01 2017-07-20 05:51:25.429 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.436 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/notify-tr-client
+01 2017-07-20 05:51:25.436 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/notify-tr-client
+01 2017-07-20 05:51:25.437 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.437 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-framework
+01 2017-07-20 05:51:25.438 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-framework
+01 2017-07-20 05:51:25.438 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.439 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-qos-service
+01 2017-07-20 05:51:25.439 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/pandora-qos-service
+01 2017-07-20 05:51:25.440 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.441 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-client
+01 2017-07-20 05:51:25.441 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-client
+01 2017-07-20 05:51:25.441 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.442 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-service
+01 2017-07-20 05:51:25.443 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/spas-sdk-service
+01 2017-07-20 05:51:25.443 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.446 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tair-plugin
+01 2017-07-20 05:51:25.447 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tair-plugin
+01 2017-07-20 05:51:25.447 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.453 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tddl-client
+01 2017-07-20 05:51:25.453 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/tddl-client
+01 2017-07-20 05:51:25.454 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.454 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/unitrouter
+01 2017-07-20 05:51:25.454 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins/unitrouter
+01 2017-07-20 05:51:25.454 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora/plugins
+01 2017-07-20 05:51:25.455 WARN [localhost-startStop-1:pandora] [PandoraUtils] [] [] cannot delete /root/pandora
+01 2017-07-20 05:51:25.499 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:25.582 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:25.633 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:25.642 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:25.678 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:25.680 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:25.936 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.021 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.247 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.262 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.282 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.300 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.318 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.403 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.709 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.711 INFO [localhost-startStop-1:pandora] [PluginArchiver] [] [] doesn't found manifest.
+01 2017-07-20 05:51:26.711 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [3/12] DeployPluginModule
+01 2017-07-20 05:51:26.717 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module alimonitor-jmonitor
+01 2017-07-20 05:51:26.718 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module config-client
+01 2017-07-20 05:51:26.720 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module diamond-client
+01 2017-07-20 05:51:26.723 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module eagleeye-core
+01 2017-07-20 05:51:26.724 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module filesync-client
+01 2017-07-20 05:51:26.726 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module hsf-notify-client
+01 2017-07-20 05:51:26.729 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module hsf
+01 2017-07-20 05:51:26.730 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module monitor
+01 2017-07-20 05:51:26.734 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module notify-tr-client
+01 2017-07-20 05:51:26.735 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module pandora-framework
+01 2017-07-20 05:51:26.741 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module pandora-qos-service
+01 2017-07-20 05:51:26.743 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module spas-sdk-client
+01 2017-07-20 05:51:26.745 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module spas-sdk-service
+01 2017-07-20 05:51:26.754 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module tair-plugin
+01 2017-07-20 05:51:26.759 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module tddl-client
+01 2017-07-20 05:51:26.763 INFO [localhost-startStop-1:pandora] [DeployService] [] [] deployed module unitrouter
+01 2017-07-20 05:51:26.763 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [4/12] InitializerCheck
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module spas-sdk-client, ignore
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module eagleeye-core, ignore
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module diamond-client, ignore
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module spas-sdk-service, ignore
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module config-client, ignore
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module unitrouter, ignore
+01 2017-07-20 05:51:26.764 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module notify-tr-client, ignore
+01 2017-07-20 05:51:26.770 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module hsf-notify-client, ignore
+01 2017-07-20 05:51:26.771 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module hsf, ignore
+01 2017-07-20 05:51:26.771 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module filesync-client, ignore
+01 2017-07-20 05:51:26.785 INFO [localhost-startStop-1:pandora] [InitializerChecker] [] [] doesn't find Initializer from module pandora-qos-service, ignore
+01 2017-07-20 05:51:26.798 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [5/12] ExportClass2Cache
+01 2017-07-20 05:51:27.991 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx2.URIStatValve, but it's optional, ignore.
+01 2017-07-20 05:51:27.993 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatExceptionValve, but it's optional, ignore.
+01 2017-07-20 05:51:27.994 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatFinalValve, but it's optional, ignore.
+01 2017-07-20 05:51:27.996 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.dragoon.patrol.webx3.DragoonStatValve, but it's optional, ignore.
+01 2017-07-20 05:51:28.039 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx2.JmonitorWebx2UrlValve, but it's optional, ignore.
+01 2017-07-20 05:51:28.040 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlFinallyValve, but it's optional, ignore.
+01 2017-07-20 05:51:28.041 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlValve, but it's optional, ignore.
+01 2017-07-20 05:51:28.042 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.webx3.JmonitorWebxUrlExceptionValve, but it's optional, ignore.
+01 2017-07-20 05:51:28.056 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.ibatis.SqlMapClientWrapper, but it's optional, ignore.
+01 2017-07-20 05:51:28.057 WARN [localhost-startStop-1:pandora] [Export-Class] [] [] can't export class: com.alibaba.alimonitor.jmonitor.plugin.ibatis.SqlMapSessionWrapper, but it's optional, ignore.
+01 2017-07-20 05:51:29.042 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [6/12] RegisterPandoraService
+01 2017-07-20 05:51:29.151 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService inited.
+01 2017-07-20 05:51:29.193 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService inited.
+01 2017-07-20 05:51:29.413 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor inited.
+01 2017-07-20 05:51:29.462 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService inited.
+01 2017-07-20 05:51:29.490 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService inited.
+01 2017-07-20 05:51:29.568 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora inited.
+01 2017-07-20 05:51:29.568 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [7/12] RegisterPluginPandolet
+01 2017-07-20 05:51:29.568 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.TraceLogPandolet for module eagleeye-core
+01 2017-07-20 05:51:29.572 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.EagleEyeControlPandolet for module eagleeye-core
+01 2017-07-20 05:51:29.572 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] register pandolet com.taobao.eagleeye.StatLogPandolet for module eagleeye-core
+01 2017-07-20 05:51:29.572 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [8/12] RegisterLifecycleListener
+01 2017-07-20 05:51:29.572 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [9/12] ChangeStateDeployed
+01 2017-07-20 05:51:29.573 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [10/12] StartPandoraService
+01 2017-07-20 05:51:29.573 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.spas.sdk.client.initializer.SpasInitializerService started.
+01 2017-07-20 05:51:29.573 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: EagleEyePandoraService started.
+01 2017-07-20 05:51:30.685 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: Tomcat Monitor started.
+01 2017-07-20 05:51:30.747 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.qos.QOSService started.
+01 2017-07-20 05:51:30.748 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.taobao.pandora.framework.plugin.PandoraFrameworkService started.
+01 2017-07-20 05:51:30.770 INFO [localhost-startStop-1:pandora] [PandoraServiceManager] [] [] service: com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrapForPandora started.
+01 2017-07-20 05:51:30.770 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [11/12] InitPluginPandolet
+01 2017-07-20 05:51:30.779 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] TraceLog inited.
+01 2017-07-20 05:51:30.779 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet TraceLog in module eagleeye-core
+01 2017-07-20 05:51:30.787 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] EagleEyeControl inited.
+01 2017-07-20 05:51:30.787 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet EagleEyeControl in module eagleeye-core
+01 2017-07-20 05:51:30.791 INFO [localhost-startStop-1:pandora] [Pandora-Pandolet] [] [] StatLog inited.
+01 2017-07-20 05:51:30.791 INFO [localhost-startStop-1:pandora] [PandoletService] [] [] init pandolet StatLog in module eagleeye-core
+01 2017-07-20 05:51:30.791 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process stage: [12/12] DisallowPandoletRegistration
+01 2017-07-20 05:51:30.791 INFO [localhost-startStop-1:pandora] [Pipeline] [] [] process end.

@@ -1,0 +1,88 @@
+[2017-07-20 13:40:17.560] [INFO] EagleEye started (file:/root/pandora/plugins/eagleeye-core/lib/eagleeye-core-1.4.4.jar), classloader=eagleeye-core's ModuleClassLoader, pid=19
+[2017-07-20 13:40:17.571] [INFO] created traceLogger[biz-eagleeye]: AsyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/biz_eagleeye.log]]
+[2017-07-20 13:40:17.577] [INFO] created statLogger[eagleeye-jvm]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-jvm.log]]
+[2017-07-20 13:40:17.577] [INFO] scheduled task ScheduleClassLoadingInfoExposer, intervalMillis=60000
+[2017-07-20 13:40:17.578] [INFO] scheduled task ScheduleGcInfoExposer, intervalMillis=60000
+[2017-07-20 13:40:17.578] [INFO] scheduled task ScheduleMemoryInfoExposer, intervalMillis=60000
+[2017-07-20 13:40:17.579] [INFO] scheduled task ScheduleOsInfoExposer, intervalMillis=60000
+[2017-07-20 13:40:17.580] [INFO] created statLogger[eagleeye-runtime]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-runtime.log]]
+[2017-07-20 13:40:17.580] [INFO] scheduled task ScheduleRuntimeInfoExposer, intervalMillis=3600000
+[2017-07-20 13:40:17.581] [INFO] created statLogger[eagleeye-thread]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-thread.log]]
+[2017-07-20 13:40:17.581] [INFO] scheduled task ScheduleThreadInfoExposer, intervalMillis=60000
+[2017-07-20 13:40:17.583] [INFO] created statLogger[eagleeye-trace]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-trace.log]]
+[2017-07-20 13:40:17.583] [INFO] created statLogger[eagleeye-hsf]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-hsf.log]]
+[2017-07-20 13:40:17.583] [INFO] created statLogger[eagleeye-tddl]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-tddl.log]]
+[2017-07-20 13:40:17.583] [INFO] created statLogger[eagleeye-tair]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-tair.log]]
+[2017-07-20 13:40:17.584] [INFO] created statLogger[eagleeye-notify]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-notify.log]]
+[2017-07-20 13:40:17.584] [INFO] created statLogger[eagleeye-metaq]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-metaq.log]]
+[2017-07-20 13:40:17.584] [INFO] created statLogger[eagleeye-local]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-local.log]]
+[2017-07-20 13:40:17.584] [INFO] EagleEyePandoraService is initialized successfully
+[2017-07-20 13:40:17.589] [INFO] created traceLogger[atp]: AsyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/trace-atp.log]]
+[2017-07-20 13:40:17.805] [INFO] created statLogger[tomcat]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-tomcat.log]]
+[2017-07-20 13:48:07.229] [INFO] EagleEye started (file:/root/pandora/plugins/eagleeye-core/lib/eagleeye-core-1.4.4.jar), classloader=eagleeye-core's ModuleClassLoader, pid=15
+[2017-07-20 13:48:07.246] [INFO] created traceLogger[biz-eagleeye]: AsyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/biz_eagleeye.log]]
+[2017-07-20 13:48:07.251] [INFO] created statLogger[eagleeye-jvm]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-jvm.log]]
+[2017-07-20 13:48:07.251] [INFO] scheduled task ScheduleClassLoadingInfoExposer, intervalMillis=60000
+[2017-07-20 13:48:07.252] [INFO] scheduled task ScheduleGcInfoExposer, intervalMillis=60000
+[2017-07-20 13:48:07.252] [INFO] scheduled task ScheduleMemoryInfoExposer, intervalMillis=60000
+[2017-07-20 13:48:07.253] [INFO] scheduled task ScheduleOsInfoExposer, intervalMillis=60000
+[2017-07-20 13:48:07.254] [INFO] created statLogger[eagleeye-runtime]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-runtime.log]]
+[2017-07-20 13:48:07.254] [INFO] scheduled task ScheduleRuntimeInfoExposer, intervalMillis=3600000
+[2017-07-20 13:48:07.255] [INFO] created statLogger[eagleeye-thread]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-thread.log]]
+[2017-07-20 13:48:07.255] [INFO] scheduled task ScheduleThreadInfoExposer, intervalMillis=60000
+[2017-07-20 13:48:07.256] [INFO] created statLogger[eagleeye-trace]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-trace.log]]
+[2017-07-20 13:48:07.256] [INFO] created statLogger[eagleeye-hsf]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-hsf.log]]
+[2017-07-20 13:48:07.257] [INFO] created statLogger[eagleeye-tddl]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-tddl.log]]
+[2017-07-20 13:48:07.257] [INFO] created statLogger[eagleeye-tair]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-tair.log]]
+[2017-07-20 13:48:07.257] [INFO] created statLogger[eagleeye-notify]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-notify.log]]
+[2017-07-20 13:48:07.257] [INFO] created statLogger[eagleeye-metaq]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-metaq.log]]
+[2017-07-20 13:48:07.257] [INFO] created statLogger[eagleeye-local]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-local.log]]
+[2017-07-20 13:48:07.257] [INFO] EagleEyePandoraService is initialized successfully
+[2017-07-20 13:48:07.261] [INFO] created traceLogger[atp]: AsyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/trace-atp.log]]
+[2017-07-20 13:48:07.472] [INFO] created statLogger[tomcat]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-tomcat.log]]
+[2017-07-20 13:49:46.396] [WARN] EagleEye is shutting down (file:/root/pandora/plugins/eagleeye-core/lib/eagleeye-core-1.4.4.jar), pid=15
+[2017-07-20 13:49:46.398] [INFO] ScheduleTaskController: worker ThreadPool shutdown successfully
+[2017-07-20 13:49:46.398] [INFO] ScheduleTaskController stopped
+[2017-07-20 13:49:46.399] [INFO] StatLoggerController: roller ThreadPool shutdown successfully
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-tddl]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-tair]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-notify]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-thread]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-jvm]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-trace]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[tomcat]
+[2017-07-20 13:49:46.399] [INFO] stopped rolling statLogger[eagleeye-local]
+[2017-07-20 13:49:46.400] [INFO] stopped rolling statLogger[eagleeye-metaq]
+[2017-07-20 13:49:46.400] [INFO] stopped rolling statLogger[eagleeye-hsf]
+[2017-07-20 13:49:46.400] [INFO] stopped rolling statLogger[eagleeye-runtime]
+[2017-07-20 13:49:46.606] [INFO] StatLoggerController: writer ThreadPool shutdown successfully
+[2017-07-20 13:49:46.606] [INFO] StatLogController stopped
+[2017-07-20 13:49:46.606] [INFO] RpcLog async thread is exited
+[2017-07-20 13:49:48.607] [INFO] closed AsyncAppender: AsyncAppender [appender=NoOpAppender]
+[2017-07-20 13:49:48.607] [INFO] BizLog async thread is exited
+[2017-07-20 13:49:50.608] [INFO] closed AsyncAppender: AsyncAppender [appender=NoOpAppender]
+[2017-07-20 13:49:50.608] [INFO] TraceLog-atp async thread is exited
+[2017-07-20 13:49:52.611] [INFO] closed AsyncAppender: AsyncAppender [appender=NoOpAppender]
+[2017-07-20 13:49:52.612] [INFO] EagleEyeLogDaemon stopped
+[2017-07-20 13:49:52.612] [WARN] EagleEye shutdown successfully (file:/root/pandora/plugins/eagleeye-core/lib/eagleeye-core-1.4.4.jar), pid=15
+[2017-07-20 13:51:29.169] [INFO] EagleEye started (file:/root/pandora/plugins/eagleeye-core/lib/eagleeye-core-1.4.4.jar), classloader=eagleeye-core's ModuleClassLoader, pid=96
+[2017-07-20 13:51:29.176] [INFO] created traceLogger[biz-eagleeye]: AsyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/biz_eagleeye.log]]
+[2017-07-20 13:51:29.185] [INFO] created statLogger[eagleeye-jvm]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-jvm.log]]
+[2017-07-20 13:51:29.186] [INFO] scheduled task ScheduleClassLoadingInfoExposer, intervalMillis=60000
+[2017-07-20 13:51:29.187] [INFO] scheduled task ScheduleGcInfoExposer, intervalMillis=60000
+[2017-07-20 13:51:29.187] [INFO] scheduled task ScheduleMemoryInfoExposer, intervalMillis=60000
+[2017-07-20 13:51:29.188] [INFO] scheduled task ScheduleOsInfoExposer, intervalMillis=60000
+[2017-07-20 13:51:29.189] [INFO] created statLogger[eagleeye-runtime]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-runtime.log]]
+[2017-07-20 13:51:29.189] [INFO] scheduled task ScheduleRuntimeInfoExposer, intervalMillis=3600000
+[2017-07-20 13:51:29.190] [INFO] created statLogger[eagleeye-thread]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-thread.log]]
+[2017-07-20 13:51:29.190] [INFO] scheduled task ScheduleThreadInfoExposer, intervalMillis=60000
+[2017-07-20 13:51:29.192] [INFO] created statLogger[eagleeye-trace]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-trace.log]]
+[2017-07-20 13:51:29.192] [INFO] created statLogger[eagleeye-hsf]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-hsf.log]]
+[2017-07-20 13:51:29.192] [INFO] created statLogger[eagleeye-tddl]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-tddl.log]]
+[2017-07-20 13:51:29.192] [INFO] created statLogger[eagleeye-tair]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-tair.log]]
+[2017-07-20 13:51:29.192] [INFO] created statLogger[eagleeye-notify]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-notify.log]]
+[2017-07-20 13:51:29.193] [INFO] created statLogger[eagleeye-metaq]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-metaq.log]]
+[2017-07-20 13:51:29.193] [INFO] created statLogger[eagleeye-local]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-eagleeye-local.log]]
+[2017-07-20 13:51:29.193] [INFO] EagleEyePandoraService is initialized successfully
+[2017-07-20 13:51:29.203] [INFO] created traceLogger[atp]: AsyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/trace-atp.log]]
+[2017-07-20 13:51:29.408] [INFO] created statLogger[tomcat]: SyncAppender [appender=EagleEyeRollingFileAppender [filePath=/root/logs/eagleeye/stat-tomcat.log]]

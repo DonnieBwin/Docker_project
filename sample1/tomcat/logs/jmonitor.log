@@ -1,0 +1,12 @@
+start:Thu Jul 20 05:51:30 UTC 2017
+Thu Jul 20 05:51:30 UTC 2017:start by pandora.
+Thu Jul 20 05:51:30 UTC 2017:alimonitor-jmonitor version:1.0.0
+Thu Jul 20 05:51:30 UTC 2017:reg druid mbean(com.alibaba.druid.stat.JdbcStatManager) success.
+Thu Jul 20 05:51:30 UTC 2017:reg mbeans success.
+Thu Jul 20 05:51:30 UTC 2017:client agentHost:127.0.0.1
+Thu Jul 20 05:51:30 UTC 2017:client agentPort:19777
+Thu Jul 20 05:51:30 UTC 2017:client appNum:null
+Thu Jul 20 05:51:30 UTC 2017:client start over.
+Thu Jul 20 05:51:30 UTC 2017:JmonitorBootstrap[Pandora]:com.alibaba.alimonitor.jmonitor.common.JmonitorBootstrap@11e150e6
+Thu Jul 20 05:51:30 UTC 2017:JmonitorBootstrap[Pandora]'s isStart:true
+Thu Jul 20 05:51:30 UTC 2017:jmonitor connect error:Connection refused

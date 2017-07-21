@@ -1,0 +1,177 @@
+01 2017-07-20 05:40:17.467 INFO [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:40:17.470 INFO [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:40:17.471 WARN [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:40:17.477 WARN [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0064] Missing property spas.autokey.url
+01 2017-07-20 05:40:27.477 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:40:27.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:40:27.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:40:37.477 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:40:37.477 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:40:37.478 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:40:47.477 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:40:47.477 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:40:47.477 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:40:57.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:40:57.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:40:57.478 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:41:07.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:41:07.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:41:07.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:41:17.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:41:17.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:41:17.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:41:27.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:41:27.478 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:41:27.478 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:41:37.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:41:37.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:41:37.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:41:47.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:41:47.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:41:47.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:41:57.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:41:57.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:41:57.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:42:07.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:42:07.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:42:07.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:42:17.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:42:17.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:42:17.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:42:27.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:42:27.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:42:27.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:42:37.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:42:37.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:42:37.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:42:47.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:42:47.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:42:47.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:42:57.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:42:57.479 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:42:57.479 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:43:07.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:43:07.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:43:07.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:43:17.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:43:17.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:43:17.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:43:27.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:43:27.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:43:27.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:43:37.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:43:37.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:43:37.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:43:47.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:43:47.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:43:47.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:43:57.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:43:57.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:43:57.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:44:07.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:44:07.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:44:07.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:44:17.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:44:17.480 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:44:17.480 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:44:27.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:44:27.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:44:27.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:44:37.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:44:37.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:44:37.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:44:47.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:44:47.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:44:47.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:44:57.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:44:57.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:44:57.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:45:07.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:45:07.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:45:07.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:45:17.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:45:17.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:45:17.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:45:27.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:45:27.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:45:27.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:45:37.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:45:37.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:45:37.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:45:47.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:45:47.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:45:47.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:45:57.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:45:57.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:45:57.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:46:07.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:46:07.481 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:46:07.481 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:46:17.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:46:17.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:46:17.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:46:27.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:46:27.483 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:46:27.483 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:46:37.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:46:37.483 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:46:37.483 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:46:47.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:46:47.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:46:47.483 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:46:57.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:46:57.482 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:46:57.482 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:47:07.483 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:47:07.483 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:47:07.483 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:47:17.483 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:47:17.484 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:47:17.484 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:47:27.483 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:47:27.484 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:47:27.484 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:48:07.200 INFO [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:48:07.203 INFO [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:48:07.204 WARN [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:48:07.211 WARN [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0064] Missing property spas.autokey.url
+01 2017-07-20 05:48:17.207 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:48:17.210 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:48:17.210 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:48:27.207 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:48:27.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:48:27.208 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:48:37.207 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:48:37.207 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:48:37.208 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:48:47.207 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:48:47.207 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:48:47.207 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:48:57.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:48:57.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:48:57.208 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:49:07.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:49:07.209 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:49:07.209 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:49:17.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:49:17.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:49:17.208 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:49:27.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:49:27.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:49:27.208 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:49:37.209 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:49:37.209 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:49:37.209 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:49:47.208 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:49:47.209 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:49:47.209 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:51:29.141 INFO [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:51:29.143 INFO [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:51:29.145 WARN [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:51:29.150 WARN [localhost-startStop-1:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0064] Missing property spas.autokey.url
+01 2017-07-20 05:51:39.146 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:51:39.147 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:51:39.147 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
+01 2017-07-20 05:51:49.146 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Unable to load credential file from classpath: spas.properties
+01 2017-07-20 05:51:49.146 INFO [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] Undefined credential file: -Dspas.identity
+01 2017-07-20 05:51:49.146 WARN [Timer-0:c.t.s.s.c.l.SpasLogger] [] [] [] [SPAS-0063] Missing property project.name
